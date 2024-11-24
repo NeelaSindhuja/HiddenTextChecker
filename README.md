@@ -5,6 +5,9 @@ The Hidden Text Highlighter tool detects hidden content within uploaded document
 
 **Note: This tool is still under development and only for experimental purposes only**
 
+<img width="1103" alt="image" src="https://github.com/user-attachments/assets/b04b822a-0533-4c27-810d-d6342c5380df">
+
+
 **Sample steps for installation:**
 
 1. Activate the Virtual Environment
