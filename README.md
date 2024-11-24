@@ -1,15 +1,3 @@
-  H   H   III  DDDD   DDDD  EEEEE  N   N      TTTTT  EEEEE  X   X  TTTTT
-  H   H    I   D   D  D   D  E      NN  N       T    E      X X     T
-  HHHHH    I   D   D  D   D  EEEE   N N N       T    EEEE    X      T
-  H   H    I   D   D  D   D  E      N  NN       T    E      X X     T
-  H   H   III  DDDD   DDDD  EEEEE  N   N       T    EEEEE  X   X    T
-
-   CCCCC  H   H   EEEEE  CCCCC  K   K  EEEEE  RRRR    SSSSS  EEEEE  RRRR   
-  C      H   H   E      C      K  K   E      R   R  SS      E      R   R 
-  C      HHHHH   EEEE   C      KKK    EEEE   RRRR   SS      EEEE   RRRR  
-  C      H   H   E      C      K  K   E      R  R   SS      E      R  R
-   CCCCC  H   H   EEEEE  CCCCC  K   K  EEEEE  R   R   SSSSS  EEEEE  R   R
-
 
 #############################################################################################################################################################################################################################################
 The Hidden Text Highlighter tool detects hidden content within uploaded documents, PDFs, or images by analyzing the text color and background contrast. It identifies text that is invisible to the human eye, such as text that matches the background color or uses hidden fonts. The tool highlights these hidden words in red and displays them alongside visible content for comparison. This is useful for uncovering any potentially concealed information within files. The tool is simple to use, with a user-friendly interface that allows users to upload files and see discrepancies between visible and hidden text.
